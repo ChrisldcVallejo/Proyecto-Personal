@@ -1,13 +1,13 @@
 .body{
-    background-color: rgb(79, 79, 239);
-}
-.portada
-{
-    color: antiquewhite;
-    margin: 20px;
-    width: 100vw;
-    height:70px;
-    background-color: rgb(60, 121, 174);
-   
+    background-color:  rgb(79, 79, 239) !important;
 }
 
+.navbar{
+     color: antiquewhite;
+}
+
+.cabecera{
+    background-color: rgb(60, 121, 174) !important;
+    height: 60px;
+   
+}
